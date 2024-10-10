@@ -30,8 +30,10 @@ nav {
       list-style-type: none;
       display: flex;
       gap: 4rem;
-
+      
       li {
+        cursor: pointer;
+        
         .dark {
           color: #000;
         }
@@ -114,12 +116,12 @@ nav {
         }
       }
     }
-  }
-  
-  .nav-visible {
-    width: 60vw;
-    visibility: visible;
-    opacity: 1;
+    
+    .nav-visible {
+      width: 60vw;
+      visibility: visible;
+      opacity: 1;
+    }
   }
 }
 
