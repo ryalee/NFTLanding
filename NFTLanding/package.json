@@ -1,7 +1,7 @@
 {
   "name": "nftlanding",
   "private": true,
-  "homepage": "https://ryalee.github.io/NFTLanding",
+  "homepage": "https://ryalee.github.io/NFTLanding/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
